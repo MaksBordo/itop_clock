@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/itop_clock/static/css/main.dc165c4e.chunk.css",
+    "main.js": "/itop_clock/static/js/main.28eb3e4d.chunk.js",
+    "main.js.map": "/itop_clock/static/js/main.28eb3e4d.chunk.js.map",
+    "runtime-main.js": "/itop_clock/static/js/runtime-main.c6d95215.js",
+    "runtime-main.js.map": "/itop_clock/static/js/runtime-main.c6d95215.js.map",
+    "static/js/2.f9f14fd3.chunk.js": "/itop_clock/static/js/2.f9f14fd3.chunk.js",
+    "static/js/2.f9f14fd3.chunk.js.map": "/itop_clock/static/js/2.f9f14fd3.chunk.js.map",
+    "index.html": "/itop_clock/index.html",
+    "static/css/main.dc165c4e.chunk.css.map": "/itop_clock/static/css/main.dc165c4e.chunk.css.map",
+    "static/js/2.f9f14fd3.chunk.js.LICENSE.txt": "/itop_clock/static/js/2.f9f14fd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6d95215.js",
+    "static/js/2.f9f14fd3.chunk.js",
+    "static/css/main.dc165c4e.chunk.css",
+    "static/js/main.28eb3e4d.chunk.js"
+  ]
+}
